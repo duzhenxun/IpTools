@@ -1,7 +1,7 @@
 {
     "name": "duzhenxun/iptools",
     "description": "IP库工具",
-    "keywords":["iptools,ip-location,ipgeo,ipArea"],
+    "keywords":["iptools"],
     "homepage": "http://github.com/duzhenxun/iptools",
     "type": "library",
     "license": "MIT",
