@@ -1,6 +1,6 @@
 <?php
 require '../vendor/autoload.php';
 
-$ip = '60.191.23.220';
+$ip = '203.83.56.56';
 $obj = new IpTools\IpArea();
 echo $obj->get($ip);
